@@ -1,6 +1,6 @@
 import java.util.*;
 
-// not working properly please check it again sir!
+
 
 class mergesort {
     public static void merge(int arr[], int l, int mid, int r) {
