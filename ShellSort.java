@@ -1,6 +1,6 @@
 import java.util.*;
 
-// it is working properly 
+
 
 public class ShellSort {
     public static void shellsort(int arr[]) {
