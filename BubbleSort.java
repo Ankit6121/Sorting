@@ -1,6 +1,6 @@
 import java.util.*;
 
-// it is working properly
+
 public class BubbleSort {
     public static void bubblesort(int arr[]) {
         int n = arr.length;
